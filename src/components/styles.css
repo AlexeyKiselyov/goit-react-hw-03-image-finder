@@ -121,7 +121,7 @@ img {
 /*
  * Стили компонента ImageGallery
  */
-.ImageGallery {
+/* .ImageGallery {
   display: grid;
   max-width: calc(100vw - 48px);
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
@@ -132,12 +132,12 @@ img {
   list-style: none;
   margin-left: auto;
   margin-right: auto;
-}
+} */
 
 /*
  * Стили компонента ImageGalleryItem
  */
-.ImageGalleryItem {
+/* .ImageGalleryItem {
   border-radius: 2px;
   box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2),
     0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 2px 1px -1px rgba(0, 0, 0, 0.12);
@@ -153,13 +153,13 @@ img {
 .ImageGalleryItem-image:hover {
   transform: scale(1.03);
   cursor: zoom-in;
-}
+} */
 
 /*
  * Стили компонента Modal
  */
 
-.Overlay {
+/* .Overlay {
   position: fixed;
   top: 0;
   left: 0;
@@ -175,12 +175,12 @@ img {
 .Modal {
   max-width: calc(100vw - 48px);
   max-height: calc(100vh - 24px);
-}
+} */
 
 /*
 * Стили компонента Buton (Load more)
 */
-.Button {
+/* .Button {
   padding: 8px 16px;
   border-radius: 2px;
   background-color: #3f51b5;
@@ -204,4 +204,4 @@ img {
 .Button:hover,
 .Button:focus {
   background-color: #303f9f;
-}
+} */
