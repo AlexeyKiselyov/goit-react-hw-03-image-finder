@@ -1,4 +1,5 @@
 import s from './ImageGallery.module.css';
+// =====================================
 
 export const ImageGallery = ({children}) => {
   return (

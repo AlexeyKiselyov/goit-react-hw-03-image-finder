@@ -24,7 +24,7 @@ export class Modal extends Component{
     return(
       <div className={s.overlay} onClick={this.handleModal}>
         <div className={s.modal} >
-          <img className={s.img}src={image} alt={tags} width="920"/>
+          <img className={s.img}src={image} alt={tags} width="980"/>
         </div>
       </div>
     )
